@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+scipy
+opencv-contrib-python-headless
+boto3
+opensearch-py
